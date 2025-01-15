@@ -19,8 +19,8 @@ Make sure you have the following installed on your machine:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/Suv4o/the-container-presentational-pattern-with-react-and-vue
-    cd the-container-presentational-pattern-with-react-and-vue
+    git clone https://github.com/Suv4o/a-beginners-guide-to-vue-for-react-developers
+    cd a-beginners-guide-to-vue-for-react-developers
     ```
 
 2. Install the dependencies in the React project:
