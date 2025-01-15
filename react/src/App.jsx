@@ -13,6 +13,7 @@ import ExampleComponent from "./components/SettingUpAComponent";
 // import ExampleComponent from "./components/HandlingEventsBetweenParentAndChildComponents";
 // import ExampleComponent from "./components/AccessingDOMElementsWithRefs";
 // import ExampleComponent from "./components/ReusableLogic";
+// import TwoWayBindingExample from "./components/TwoWayBindingExample";
 
 function App() {
     return (
@@ -23,6 +24,7 @@ function App() {
             {/* <Counter /> */}
             {/* <DoubleCounter /> */}
             {/* <Parent /> */}
+            {/* <TwoWayBindingExample /> */}
         </>
     );
 }

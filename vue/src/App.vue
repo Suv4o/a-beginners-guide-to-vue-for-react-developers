@@ -1,5 +1,5 @@
 <script setup>
-// import SettingUpAComponent from "./components/SettingUpAComponent.vue";
+import SettingUpAComponent from "./components/SettingUpAComponent.vue";
 // import StylingComponents from "./components/StylingComponents.vue";
 // import ExternalStyles from "./components/ExternalStyles.vue";
 // import ScopedStyles from "./components/ScopedStyles.vue";
@@ -16,11 +16,12 @@
 // import Component from "./components/Component.vue";
 // import ComponentA from "./components/ComponentA.vue";
 // import ComponentB from "./components/ComponentB.vue";
+// import TwoWayBinding from "./components/TwoWayBinding.vue";
 </script>
 
 <template>
     <!-- Use the components from the Components directory here -->
-    <!-- <SettingUpAComponent /> -->
+    <SettingUpAComponent />
     <!-- <ExternalStyles /> -->
     <!-- <StylingComponents /> -->
     <!-- <ScopedStyles /> -->
@@ -37,4 +38,5 @@
     <!-- <Component /> -->
     <!-- <ComponentA />
     <ComponentB /> -->
+    <!-- <TwoWayBinding /> -->
 </template>
